@@ -1,6 +1,6 @@
 package org.example;
 
 public class HumanClass {
-    String name = "Igor";
-    String lastName = "Petrenko";
+    String name = "Svitlana";
+    String lastName = "Dubynka";
 }
